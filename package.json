@@ -1,0 +1,7 @@
+{
+    "name": "@portal-solutions/proby",
+    "workspaces": [],
+    "devDependencies": {
+        "parcel": "^2.15.4"
+    }
+}
