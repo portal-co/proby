@@ -1,13 +1,13 @@
 # @portal-solutions/proby
 
 ## Description
-Project proby
+A TypeScript project (`proby`), likely a testing tool or probe utility (as suggested by "proby").
 
 ## Goals
-- [ ] Add project goals
+- [ ] TBD
 
 ## Progress
-- [ ] Initial setup
+- [ ] Package setup
 
 ---
 *AI assisted*
